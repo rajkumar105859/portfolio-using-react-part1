@@ -1,0 +1,56 @@
+.navigation{
+    background-color: rgb(84, 7, 207);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.navHeading{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.head-img{
+    width: 150px;
+    height: 50px;
+}
+
+.list{
+    list-style-type: none;
+    text-align: right;
+    
+}
+.link-color{
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    padding : 1rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.list-item{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+.code-div{
+    height: 300px;
+    width: 300px;
+    border: 1px solid navy;
+    border-radius: 1rem;
+    float: left;
+    margin: 0.5rem 1rem ;
+    text-align: center;
+}
+.project-name{
+    background-color: rgb(32, 197, 128);
+    color: white;
+    
+}
+.project-code{
+    text-decoration: none;
+    background-color: navy;
+    margin-bottom: 0rem;
+    color: white;
+    padding: 0.3rem;
+    font-size: 15px;
+}
