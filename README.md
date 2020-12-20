@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ![alt text](https://github.com/rajkumar105859/portfolio-using-react-part1/blob/main/project_images/img1.png?raw=true)
 
 
